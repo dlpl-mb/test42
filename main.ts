@@ -1,5 +1,5 @@
 basic.showIcon(IconNames.Heart)
-basic.showString("Hello!")
+basic.showString("Hellllllllo!")
 basic.forever(function () {
 	
 })
